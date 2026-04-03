@@ -1,0 +1,6 @@
+framework module deviceiOS {
+  umbrella header "deviceiOS.h"
+
+  export *
+  module * { export * }
+}
